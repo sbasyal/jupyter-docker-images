@@ -8,6 +8,6 @@ Set of docker images to build notebook node for JupyterHub with Python2, Python3
 3) docker build -t 3blades/anaconda-plus 3blades-anaconda-plus/
 4) docker build -t 3blades/systemuser 3blades-systemuser/
 
-# Pull from DockerHub
+## Pull from DockerHub
 
 docker pull 3blades/systemuser
